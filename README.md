@@ -1,7 +1,7 @@
 # Coursera-Getting-and-Cleaning-Data
 Creation tidy data for activities recorded by a smartphone
 
-Here you find tidy datasets in
+* Here you find tidy datasets in
 Tidy Dataset.csv and Tidy Grouped Dataset.csv
 representing the data from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
