@@ -7,7 +7,7 @@ Following steps were performed in order to obtain tidy dataset:
 Only 8 files were needed, those in Inertial Signals folder weren't used
 
 * Naming the data
-Files Y_test(train) represent the number of the person under observation.
+Files Y_test(train) represent the number of the person under observation.<br />
 Files subject_test(train) represent Activity ID performed with the names of ID written in file activity_labels
 File features represent names of variables used in files X_test(train)
 
