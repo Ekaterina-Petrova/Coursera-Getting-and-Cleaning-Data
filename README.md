@@ -2,8 +2,7 @@
 
 Following steps were performed in order to obtain tidy dataset:<br />
 
-*
- Reading the data<br />
+* Reading the data<br />
 Only 8 files were needed, those in Inertial Signals folder weren't used<br />
 
 * Naming the data
